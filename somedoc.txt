@@ -5,4 +5,7 @@ New_line_after_git_clone
 remote_desctop_codeline
 teacher_branch codeline
 another teacher_branch codeline due annici login
-8th line of code 
+<<<<<<< HEAD
+
+Аnnа Аvdиzhиуаn  &  8th line of code 
+
